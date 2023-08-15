@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @W-Sho-Sugihara
--  I’m like in cooking, reading, board & card games, and of course programming.
+-  I like in cooking, reading, board & card games, and software engineering.
 -  I recently co-created TINKER — a self-hosted, backend-as-a-service (BaaS) that automates configuration and deployment on AWS, with a companion PostgreSQL DB management UI.
 
 <!---
